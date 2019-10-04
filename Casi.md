@@ -1,5 +1,5 @@
 # Sans::ok-fractures
-There are two pasts:
+There are two paths:
 
 Don't be afraid to cry, to talk about it. Write it down, don't drown in it.
 
